@@ -1,3 +1,21 @@
+<a name="v0.18.20"></a>
+## [v0.18.20] - 2021-01-27
+<a name="v0.18.19"></a>
+## [v0.18.19] - 2021-01-27
+### Bug Fixes
+- **install:** ensure prompt response are handled correctly
+
+<a name="v0.18.18"></a>
+## [v0.18.18] - 2021-01-25
+### Bug Fixes
+- **install:** capture guid from validation when alternate format
+
+<a name="v0.18.17"></a>
+## [v0.18.17] - 2021-01-22
+### Bug Fixes
+- **install:** avoid duplicate results when fetching recommendations
+- **install:** switch to confirmation for post-question visibility
+
 <a name="v0.18.16"></a>
 ## [v0.18.16] - 2021-01-20
 <a name="v0.18.15"></a>
@@ -419,7 +437,11 @@
 - **profile:** Enable reading of profiles and use Region/APIKey from default profile
 - **profile:** Add listing of profiles to command
 
-[Unreleased]: https://github.com/newrelic/newrelic-client-go/compare/v0.18.16...HEAD
+[Unreleased]: https://github.com/newrelic/newrelic-client-go/compare/v0.18.20...HEAD
+[v0.18.20]: https://github.com/newrelic/newrelic-client-go/compare/v0.18.19...v0.18.20
+[v0.18.19]: https://github.com/newrelic/newrelic-client-go/compare/v0.18.18...v0.18.19
+[v0.18.18]: https://github.com/newrelic/newrelic-client-go/compare/v0.18.17...v0.18.18
+[v0.18.17]: https://github.com/newrelic/newrelic-client-go/compare/v0.18.16...v0.18.17
 [v0.18.16]: https://github.com/newrelic/newrelic-client-go/compare/v0.18.15...v0.18.16
 [v0.18.15]: https://github.com/newrelic/newrelic-client-go/compare/v0.18.14...v0.18.15
 [v0.18.14]: https://github.com/newrelic/newrelic-client-go/compare/v0.18.13...v0.18.14
